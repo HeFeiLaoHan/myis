@@ -1,0 +1,5 @@
+com\wlsq\apple\service\UserService.class
+com\wlsq\apple\controller\UserController.class
+com\wlsq\apple\entity\User.class
+com\wlsq\apple\mapper\UserMapper.class
+com\wlsq\apple\Application.class
